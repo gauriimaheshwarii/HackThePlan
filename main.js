@@ -1,6 +1,5 @@
 const panoramaImage = new PANOLENS.ImagePanorama("images/venue1.jpg");
 const imageContainer = document.querySelector(".image-container");
-
 const viewer = new PANOLENS.Viewer( {
     conatiner: imageContainer,
     autoRotate: true,
