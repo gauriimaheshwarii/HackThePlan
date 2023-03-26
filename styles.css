@@ -3,7 +3,7 @@
     --light: #fff;
     --dark: 	#fff;
   }
-  
+
 body { 
     margin: 0;
 }
@@ -118,6 +118,10 @@ html, body {
   
   .logo {
     color: var(--dark);
+  }
+
+  .fix {
+    text-emphasis-color: var(--light);
   }
 
   @media(max-width: 900px) {
