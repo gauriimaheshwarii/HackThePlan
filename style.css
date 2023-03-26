@@ -284,33 +284,11 @@
       text-align: center;
       font-size: 15px;
     }
-
-    body { 
-      margin: 0;
-    }
-
-    .Nandini .h1{
-      display: flex;
-      height: 100vh;
-      align-items: center;
-      background: #fff;
-    }
   
-    .Nandini .image-container {
+    .image-container {
       flex: 1;
       background-color: aliceblue;
       height: 100%;
-    }
-  
-    .Nandini h1 {
-      flex: 1;
-      text-align: center;
-      color: #fff;
-      font-family: "Raleway", sans-serif;
-      text-transform: uppercase;
-      font-size: 40px;
-      font-weight: 300;
-      letter-spacing: 10px;
     }
      
   }
